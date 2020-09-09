@@ -1,0 +1,2 @@
+find /home -name lab7.cpp | wc -l | wc -c
+find /home -name lab7.cpp | wc -c

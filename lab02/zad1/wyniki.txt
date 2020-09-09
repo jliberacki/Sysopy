@@ -1,0 +1,145 @@
+   Real      User      System
+Copied 4000 records with buffer of size 1 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 1 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 4000 records of size 1 by sys functions
+1.070000   0.140000   0.930000 
+
+Sorted 4000 records of size 1 by lib functions
+1.840000   0.620000   1.210000 
+
+Copied 4000 records with buffer of size 4 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 4 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 4000 records of size 4 by sys functions
+1.080000   0.140000   0.930000 
+
+Sorted 4000 records of size 4 by lib functions
+1.860000   0.630000   1.220000 
+
+Copied 4000 records with buffer of size 512 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 512 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 4000 records of size 512 by sys functions
+1.140000   0.130000   0.990000 
+
+Sorted 4000 records of size 512 by lib functions
+1.870000   0.560000   1.300000 
+
+Copied 4000 records with buffer of size 1024 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 1024 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 4000 records of size 1024 by sys functions
+1.110000   0.140000   0.950000 
+
+Sorted 4000 records of size 1024 by lib functions
+1.870000   0.660000   1.210000 
+
+Copied 4000 records with buffer of size 4096 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 4096 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 4000 records of size 4096 by sys functions
+1.130000   0.150000   0.970000 
+
+Sorted 4000 records of size 4096 by lib functions
+1.470000   0.470000   0.980000 
+
+Copied 4000 records with buffer of size 8192 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 4000 records with buffer of size 8192 by lib functions
+0.010000   0.000000   0.000000 
+
+Sorted 4000 records of size 8192 by sys functions
+1.130000   0.140000   0.980000 
+
+Sorted 4000 records of size 8192 by lib functions
+1.520000   0.480000   1.030000 
+
+Copied 6000 records with buffer of size 1 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 1 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 1 by sys functions
+2.490000   0.330000   2.140000 
+
+Sorted 6000 records of size 1 by lib functions
+4.160000   1.410000   2.740000 
+
+Copied 6000 records with buffer of size 4 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 4 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 4 by sys functions
+2.430000   0.310000   2.110000 
+
+Sorted 6000 records of size 4 by lib functions
+4.290000   1.370000   2.900000 
+
+Copied 6000 records with buffer of size 512 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 512 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 512 by sys functions
+2.470000   0.350000   2.110000 
+
+Sorted 6000 records of size 512 by lib functions
+4.290000   1.440000   2.830000 
+
+Copied 6000 records with buffer of size 1024 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 1024 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 1024 by sys functions
+2.550000   0.320000   2.220000 
+
+Sorted 6000 records of size 1024 by lib functions
+4.330000   1.390000   2.930000 
+
+Copied 6000 records with buffer of size 4096 by sys functions
+0.010000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 4096 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 4096 by sys functions
+2.500000   0.320000   2.160000 
+
+Sorted 6000 records of size 4096 by lib functions
+3.280000   1.070000   2.200000 
+
+Copied 6000 records with buffer of size 8192 by sys functions
+0.000000   0.000000   0.000000 
+
+Copied 6000 records with buffer of size 8192 by lib functions
+0.000000   0.000000   0.000000 
+
+Sorted 6000 records of size 8192 by sys functions
+2.580000   0.320000   2.240000 
+
+Sorted 6000 records of size 8192 by lib functions
+3.390000   1.130000   2.250000 
+

@@ -1,0 +1,29 @@
+echo message 1 - echo
+friends 0 1 2 3
+del 0
+del 2
+add 2
+2friends message 2 - only to friends (1 2 3)
+2all message 3 - to all
+2friends message 4 - only to friends (1 2 3)
+2all message 5 - to all
+2friends message 6 - only to friends (1)
+2all message 7 - to all
+2all message 8 - to all
+2all message 9 - to all
+2all message 10 - to all
+2all message 11 - to all
+2all message 12 - to all
+2all message 13 - to all
+2all message 14 - to all
+2all message 15 - to all
+2all message 16 - to all
+2all message 17 - to all
+2one 0 message 18 - only to 0
+2one 1 message 19 - only to 1
+2all message 20 - to all
+2all message 21 - to all
+2all message 22 - to all
+2all message 23 - to all
+echo message 24 - echo
+list
